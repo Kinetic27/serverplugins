@@ -1,0 +1,2 @@
+# serverplugins
+personal plugins
